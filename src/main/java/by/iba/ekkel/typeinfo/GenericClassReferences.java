@@ -1,7 +1,7 @@
 //: by.iba.ekkel.typeinfo/GenericCkassReferences.java
 package by.iba.ekkel.typeinfo;
 
-public class GenericCkassReferences {
+public class GenericClassReferences {
 	
 	public static void main(String[] args) {
 	
