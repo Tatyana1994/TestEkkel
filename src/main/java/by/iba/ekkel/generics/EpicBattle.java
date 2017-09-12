@@ -92,6 +92,8 @@ public class EpicBattle {
 		superFind(dogBoy);
 		//It could be in that way
 		List<? extends SuperHearing> audioBoys;
+		//But not in that way
+		//! List<? extends SuperHearing & SuperSmell> dogBoys;
 	
 	}
 
