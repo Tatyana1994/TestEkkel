@@ -25,6 +25,7 @@ public class LargeMappedFiles {
 		for(int i = length/2; i < length/2 + 6; i++) {
 			printb((char)out.get(i));
 		}
+		out.clear();
 	
 	}
 

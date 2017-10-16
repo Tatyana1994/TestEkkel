@@ -24,6 +24,8 @@ public class LockingMappedFiles {
 		new LockAndModify(out, 0, 0 + LENGTH/3);
 		new LockAndModify(out, LENGTH/2, LENGTH/3 + LENGTH/4);
 		
+		fc.close();
+		
 	}
 	
 	private static class LockAndModify extends Thread {
